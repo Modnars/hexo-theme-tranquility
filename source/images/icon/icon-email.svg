@@ -1,14 +1,2 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1669621871638"
-  class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4474"
-  xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
-  <path
-    d="M64 288a160 160 0 0 1 160-160h576a160 160 0 0 1 160 160v448a160 160 0 0 1-160 160H224a160 160 0 0 1-160-160V288z"
-    fill="#929292" p-id="4475"></path>
-  <path
-    d="M140 151.776l813.216 630.528A160.064 160.064 0 0 1 800 896H224a160 160 0 0 1-160-160V288c0-57.568 30.4-108.032 76-136.224z"
-    fill="#444444" p-id="4476"></path>
-  <path
-    d="M221.344 128a160.064 160.064 0 0 0-154.208 117.12l423.552 304.096a64 64 0 0 0 74.624 0l395.712-284.128A160.032 160.032 0 0 0 802.656 128H221.344z"
-    fill="#e2e2e2" p-id="4477"></path>
-</svg>
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M0 5.324V15.5A1.5 1.5 0 001.5 17h17a1.5 1.5 0 001.5-1.5V5.324l-9.496 5.54a1 1 0 01-1.008 0L0 5.324z" fill="#5C5F62"/><path d="M19.443 3.334A1.494 1.494 0 0018.5 3h-17c-.357 0-.686.125-.943.334L10 8.842l9.443-5.508z" fill="#5C5F62"/></svg>

@@ -17,7 +17,7 @@ module.exports = hexo => {
         .map(p => ({
           title: p.title,
           path: url_for(p.path),
-          icon: url_for(items.find(item => item.name == p.timeline).icon),
+          icon: url_for(p.icon ? p.icon : items.find(item => item.name == p.timeline).icon),
           type: p.timeline,
           date: moment(p.date).format('YYYY-MM-DD'),
         }))
